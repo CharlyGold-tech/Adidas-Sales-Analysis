@@ -19,7 +19,13 @@ Standardised region and retailer labels, verified date formats across fiscal per
 ## Dashboard
 <img width="975" height="570" alt="image" src="https://github.com/user-attachments/assets/f1923f86-e594-43a2-99ac-95999f88047f" />
 
+## Recommendation
+•	Channel-level analysis reveals that In-Store sales generated the highest overall revenue at $356.6M. This trend is especially strong for women's Athletic Footwear, which recorded the highest revenue among all product categories within the In-Store channel. Based on this, increasing In-Store placement, promotions, inventory allocation for Women's Athletic Footwear would directly reinforce the company's strongest performing channel-product combination
 
+•	Deepen partnership investment with west Gear and Foot Locker to maintain revenue targets
 
+•	Prioritise product availability in West and North-West regions where demand is strongest
 
+## Business Impact
+Reallocating Women's Athletic inventory to In-Store where $356.6M in revenue was recorded could recover growth in this underperforming category. Strengthening top retailer partnerships protects the revenue base built during the 294% growth transition.
 
